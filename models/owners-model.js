@@ -1,4 +1,4 @@
-const mongoose = require('moongoose');
+const mongoose = require('mongoose');
 
 const ownerSchema = new mongoose.Schema({
     fullname: String,
